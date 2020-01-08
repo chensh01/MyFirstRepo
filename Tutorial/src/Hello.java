@@ -6,7 +6,7 @@ public class Hello {
         FirstClass Disp = new FirstClass();
         Disp.dispgreeting();
         System.out.println("First Branch");
-        System.out.println("Change push to repo");
+        System.out.println("Change push to repo2");
 
     }
 
